@@ -1,4 +1,7 @@
-# awesome_kg_ai
+# Awesome Papers on Knowledge Graphs and AI Agents
+
+## Prompt Optimization
+- [Ontology-enhanced Prompt-tuning for Few-shot Learning](https://arxiv.org/pdf/2201.11332)
 
 ## Search
 - [Human-Assisted Graph Search: It's Okay to Ask Questions](https://arxiv.org/pdf/1103.3102)
