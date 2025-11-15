@@ -5,6 +5,7 @@
 
 ## Search
 - [Human-Assisted Graph Search: It's Okay to Ask Questions](https://arxiv.org/pdf/1103.3102)
+- [Product Quantization for Nearest Neighbor Search](https://inria.hal.science/inria-00514462v2/document)
 
 ## RAG
 - [From Local to Global: A GraphRAG Approach to Query-Focused Summarization](https://arxiv.org/pdf/2404.16130)
@@ -16,4 +17,7 @@
 - [A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges](https://arxiv.org/pdf/2403.10249)
 
 ## Downstream Tasks
+### Security
+- [[Anthropic Blog] Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage)
+### Neuro-symbolic Reasoning
 - [KROMA: Ontology Matching with Knowledge Retrieval and Large Language Models](https://arxiv.org/pdf/2507.14032)
