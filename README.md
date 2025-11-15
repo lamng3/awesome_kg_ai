@@ -21,3 +21,9 @@
 - [[Anthropic Blog] Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage)
 ### Neuro-symbolic Reasoning
 - [KROMA: Ontology Matching with Knowledge Retrieval and Large Language Models](https://arxiv.org/pdf/2507.14032)
+
+## Tips & Goodreads
+### AI Trends
+- [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)
+### Principles
+- [How to make steady progress in my research?](https://github.com/jbhuang0604/awesome-tips/blob/main/steady-progress.md)
