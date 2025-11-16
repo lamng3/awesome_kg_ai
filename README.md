@@ -18,6 +18,8 @@
 - [A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges](https://arxiv.org/pdf/2403.10249)
 
 ## Text-to-Query & Query Generation Agent
+### Blogs
+- [[Google Cloud Blog] A new top score: Advancing Text-to-SQL on the BIRD benchmark](https://cloud.google.com/blog/products/databases/how-to-get-gemini-to-deeply-understand-your-database)
 ### Methods
 - [SQL-of-Thought: Multi-agentic Text-to-SQL with Guided Error Correction](https://arxiv.org/pdf/2509.00581)
 ### Surveys
