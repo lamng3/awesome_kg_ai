@@ -22,6 +22,7 @@
 - [[Google Cloud Blog] A new top score: Advancing Text-to-SQL on the BIRD benchmark](https://cloud.google.com/blog/products/databases/how-to-get-gemini-to-deeply-understand-your-database)
 ### Methods
 - [SQL-of-Thought: Multi-agentic Text-to-SQL with Guided Error Correction](https://arxiv.org/pdf/2509.00581)
+- [CHASE-SQL: Multi-Path Reasoning and Preference Optimized Candidate Selection in Text-to-SQL](https://arxiv.org/pdf/2410.01943)
 ### Surveys
 - [Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL](https://arxiv.org/pdf/2406.08426)
 ### Training
