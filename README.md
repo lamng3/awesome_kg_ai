@@ -19,7 +19,7 @@
 
 ## Text-to-Query & Query Generation Agent
 ### Blogs
-- [ ] [[Google Cloud Blog] A new top score: Advancing Text-to-SQL on the BIRD benchmark](https://cloud.google.com/blog/products/databases/how-to-get-gemini-to-deeply-understand-your-database)
+- [x] [[Google Cloud Blog] A new top score: Advancing Text-to-SQL on the BIRD benchmark](https://cloud.google.com/blog/products/databases/how-to-get-gemini-to-deeply-understand-your-database) [[📄 Review Notes](reviews/google_cloud_blog_a_new_top_score_bird.md)]
 ### Methods
 - [ ] [SQL-of-Thought: Multi-agentic Text-to-SQL with Guided Error Correction](https://arxiv.org/pdf/2509.00581)
 - [ ] [CHASE-SQL: Multi-Path Reasoning and Preference Optimized Candidate Selection in Text-to-SQL](https://arxiv.org/pdf/2410.01943)
