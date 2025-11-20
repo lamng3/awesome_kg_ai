@@ -17,6 +17,9 @@
 ### Game Playing
 - [x] [A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges](https://arxiv.org/pdf/2403.10249)
 
+## Table Understanding
+- [ ] [TabLLM: Few-shot Classification of Tabular Data with Large Language Models](https://github.com/clinicalml/TabLLM)
+
 ## Text-to-Query & Query Generation Agent
 ### Blogs
 - [x] [[Google Cloud Blog] A new top score: Advancing Text-to-SQL on the BIRD benchmark](https://cloud.google.com/blog/products/databases/how-to-get-gemini-to-deeply-understand-your-database) [[📄 Review Notes](reviews/google_cloud_blog_a_new_top_score_bird.md)]
