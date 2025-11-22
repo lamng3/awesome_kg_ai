@@ -45,7 +45,7 @@
 
 ## Tips & Goodreads
 ### AI Trends
-- [ ] [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence)
+- [x] [From Words to Worlds: Spatial Intelligence is AI’s Next Frontier](https://drfeifei.substack.com/p/from-words-to-worlds-spatial-intelligence) [[📄 Review Notes](reviews/feifeili_spatial_intelligence.md)]
 ### Principles
 - [ ] [How to make steady progress in my research?](https://github.com/jbhuang0604/awesome-tips/blob/main/steady-progress.md)
 ### Research Groups/Individuals 
